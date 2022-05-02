@@ -15,9 +15,9 @@
 
 <script>
 // @ is an alias to /src
-import DataBoxes from '@/components/DataBoxes.vue'
-import DataTitle from '@/components/DataTitle.vue'
-import Country from '@/components/Country.vue'
+import DataBoxes from '../components/DataBoxes.vue'
+import DataTitle from '../components/DataTitle.vue'
+import Country from '../components/Country.vue'
 export default {
   name: 'HomeView',
   data(){
